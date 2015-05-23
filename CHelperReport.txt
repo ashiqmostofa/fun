@@ -1,2 +1,2 @@
-42 src/main/DevuAndBeautifulSubstrings.tctask
+35 src/main/C - Soldier and Cards.task
 0
