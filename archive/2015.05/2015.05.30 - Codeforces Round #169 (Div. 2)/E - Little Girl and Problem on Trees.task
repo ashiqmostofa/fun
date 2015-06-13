@@ -1,0 +1,81 @@
+36 E - Little Girl and Problem on Trees
+6 SINGLE
+8 STANDARD
+-1
+8 STANDARD
+-1
+3
+0
+48 3 6
+1 3
+1 2
+0 3 1 2
+0 2 3 1
+0 1 5 2
+1 1
+1 2
+1 3
+
+6 9
+9
+6
+
+0
+1
+89 6 11
+1 2
+2 5
+5 4
+1 6
+1 3
+0 3 1 3
+0 3 4 5
+0 2 1 4
+0 1 5 5
+0 4 6 2
+1 1
+1 2
+1 3
+1 4
+1 5
+1 6
+
+18 11
+17
+11
+16
+17
+11
+
+0
+2
+82 4 8
+2 1
+1 4
+2 3
+0 4 9297 3
+1 1
+0 3 6099 2
+0 2 9028 1
+0 4 7369 2
+1 3
+1 3
+0 4 2766 1
+16 9297
+24424
+24424
+1
+8 src/main
+8 -Xmx256M
+4 Main
+10 main.TaskE
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2015.05.30
+30 Codeforces Round #169 (Div. 2)
+1
+30 net.egork.utils.io.InputReader
+31 net.egork.utils.io.OutputWriter
+0
+0

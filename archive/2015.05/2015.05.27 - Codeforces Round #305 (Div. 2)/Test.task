@@ -1,28 +1,26 @@
-27 D - Soldier and Number Game
+4 Test
 6 SINGLE
 8 STANDARD
--1
+9 input.txt
 8 STANDARD
--1
+10 output.txt
 1
 0
-10 2
-3 1
-6 3
-
-4 2
-5
-
+29 2
+2 1 1 2 2 1 2
+3 1 1 1 3 1 2
+3 2
+4
 1
 8 src/main
 8 -Xmx256M
 4 Main
-10 main.TaskD
+9 main.Test
 39 net.egork.chelper.checkers.TokenChecker
 0 
 0
-10 2015.05.22
-30 Codeforces Round #304 (Div. 2)
+10 2015.05.27
+30 Codeforces Round #305 (Div. 2)
 1
 30 net.egork.utils.io.InputReader
 31 net.egork.utils.io.OutputWriter

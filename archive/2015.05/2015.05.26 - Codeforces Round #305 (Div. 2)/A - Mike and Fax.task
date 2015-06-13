@@ -1,0 +1,35 @@
+16 A - Mike and Fax
+6 SINGLE
+8 STANDARD
+-1
+8 STANDARD
+-1
+2
+0
+7 saba
+2
+
+3 NO
+
+1
+1
+15 saddastavvat
+2
+
+4 YES
+
+1
+8 src/main
+8 -Xmx256M
+4 Main
+10 main.TaskA
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2015.05.26
+30 Codeforces Round #305 (Div. 2)
+1
+30 net.egork.utils.io.InputReader
+31 net.egork.utils.io.OutputWriter
+0
+0
